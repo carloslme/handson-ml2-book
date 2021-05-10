@@ -1,0 +1,199 @@
+--------- beginning of main
+11-28 07:30:39.145 E/com.hellotalk(29492): Not starting debugger since process cannot load the jdwp agent.
+11-28 07:30:39.213 D/ActivityThread(29492): setConscryptValidator
+11-28 07:30:39.213 D/ActivityThread(29492): setConscryptValidator - put
+11-28 07:30:39.288 I/com.hellotalk(29492): The ClassLoaderContext is a special shared library.
+11-28 07:30:39.307 W/com.hellotalk(29492): Insufficient pre-allocated space to mmap vdex.
+11-28 07:30:39.515 I/MultiDex(29492): VM with version 2.1.0 has multidex support
+11-28 07:30:39.516 I/MultiDex(29492): Installing application
+11-28 07:30:39.516 I/MultiDex(29492): VM has multidex support, MultiDex support library is disabled.
+11-28 07:30:39.531 I/MultiDex(29492): Installing application
+11-28 07:30:39.531 I/MultiDex(29492): VM has multidex support, MultiDex support library is disabled.
+11-28 07:30:39.813 V/FA      (29492): Deferring to Google Analytics for Firebase for event data collection. https://goo.gl/J1sWQy
+11-28 07:30:39.818 I/DynamiteModule(29492): Considering local module com.google.android.gms.measurement.dynamite:12 and remote module com.google.android.gms.measurement.dynamite:0
+11-28 07:30:39.818 I/DynamiteModule(29492): Selected local version of com.google.android.gms.measurement.dynamite
+11-28 07:30:39.875 W/com.hellotalk(29492): Unsupported class loader
+11-28 07:30:39.880 I/DynamiteModule(29492): Considering local module com.google.android.gms.ads.dynamite:0 and remote module com.google.android.gms.ads.dynamite:204102000
+11-28 07:30:39.880 I/DynamiteModule(29492): Selected remote version of com.google.android.gms.ads.dynamite, version >= 204102000
+11-28 07:30:39.881 V/DynamiteModule(29492): Dynamite loader version >= 2, using loadModule2NoCrashUtils
+11-28 07:30:39.938 I/FirebaseCrashlytics(29492): Initializing Crashlytics 17.1.1
+11-28 07:30:39.957 I/FirebaseInitProvider(29492): FirebaseApp initialization successful
+11-28 07:30:39.973 I/DynamiteLoaderV2Impl(29492): [71] AdsFdrDynamite.integ
+11-28 07:30:40.226 D/NetworkSecurityConfig(29492): Using Network Security Config from resource network_security_config debugBuild: false
+11-28 07:30:40.234 E/GraphResponse(29492): GraphRequest can't be used when Facebook SDK isn't fully initialized
+11-28 07:30:40.234 E/GraphResponse(29492): GraphRequest can't be used when Facebook SDK isn't fully initialized
+11-28 07:30:40.235 E/GraphResponse(29492): GraphRequest can't be used when Facebook SDK isn't fully initialized
+11-28 07:30:40.244 E/GraphResponse(29492): GraphRequest can't be used when Facebook SDK isn't fully initialized
+11-28 07:30:40.296 D/FBAudienceNetwork(29492): SDK dex loading time: 192
+11-28 07:30:40.417 E/[com.hellotalk] NihaotalkApplication(29492): onCreate isMain = true
+11-28 07:30:40.417 D/HTLOG   (29492):  create write log thread
+11-28 07:30:40.433 E/LogFileWriter(29492): construct exists the HELLOTALK file and delete it.
+11-28 07:30:40.435 E/[com.hellotalk] NihaotalkApplication(29492): onCreate MainName = com.hellotalk
+11-28 07:30:40.435 E/LogFileWriter(29492): onLooperPrepared
+11-28 07:30:40.436 D/LogFileWriter(29492): construct mEventHandler:Handler (com.hellotalk.basic.b.c$2) {3ce8b70}
+11-28 07:30:40.436 D/LogFileWriter(29492): MSG_INIT log dir:/storage/emulated/0/hellotalk/htlog
+11-28 07:30:40.537 E/[com.hellotalk] NotificationChannelManager(29492): createChannelsIfNeed create normal channel
+11-28 07:30:40.551 E/[com.hellotalk] NotificationChannelManager(29492): createChannelsIfNeed create dnd channel
+11-28 07:30:40.582 E/[com.hellotalk] CoreConfiguration(29492): loadPrefs pwd:
+11-28 07:30:40.582 E/[com.hellotalk] CoreConfiguration(29492): loadPrefs loginPagePwd:
+11-28 07:30:40.583 E/[com.hellotalk] CoreConfiguration(29492): loadPrefs language 5
+11-28 07:30:40.615 I/MMKV    (29492): <native-bridge.cpp:101::JNI_OnLoad> current API level = 29
+11-28 07:30:40.616 I/MMKV    (29492): <MMKV.cpp:192::initialize> page size:4096
+11-28 07:30:40.616 I/MMKV    (29492): <MMKV.cpp:206::initializeMMKV> root dir: /data/user/0/com.hellotalk/files/mmkv
+11-28 07:30:40.683 E/[com.hellotalk] AppsFlyerHelper(29492): AppsFlyerHelper appsFlyerId:1603570438058-1674777743665020551
+11-28 07:30:40.689 D/AppsFlyer_5.2.0(29492): Initializing AppsFlyer SDK: (v5.2.0.311)
+11-28 07:30:40.750 E/[com.hellotalk] NihaotalkApplication(29492): WatchMan init 
+11-28 07:30:40.851 E/[com.hellotalk] LoginConfigHelper(29492): load config cache
+11-28 07:30:40.884 I/MMKV    (29492): <MMKV.cpp:335::loadFromFile> loading [wns_caches_v6_cry] with 129085 size in total, file size is 262144, InterProcess 0
+11-28 07:30:40.886 I/MMKV    (29492): <MMKV.cpp:359::loadFromFile> loading [wns_caches_v6_cry] with crc 1181484264 sequence 6 version 2
+11-28 07:30:40.896 I/MMKV    (29492): <MMKV.cpp:380::loadFromFile> loaded [wns_caches_v6_cry] with 46 values
+11-28 07:30:40.898 E/[com.hellotalk] WithVersionConfigure(29492): loadFromCache key = card_conffalse106986854,ts = -1812269082,url = https://ali-hk-cdn.hellotalk8.com/card/card_conf_0625.json
+11-28 07:30:40.898 E/[com.hellotalk] WithVersionConfigure(29492): loadFromCache key = client_stringfalse106986854,ts = 28,url = https://d1crbxfh451uuh.cloudfront.net/mg_20160725/cnf/client_string_v27.json
+11-28 07:30:40.899 E/[com.hellotalk] EmojiRainConfigure(29492): fromCache = true,key = emoji_rainfalse106986854
+11-28 07:30:40.899 E/[com.hellotalk] WithVersionConfigure(29492): loadFromCache key = stickerfalse106986854,ts = 22,url = https://d1crbxfh451uuh.cloudfront.net/stickerSrc/config_22.enc
+11-28 07:30:40.906 E/[com.hellotalk] NetworkState(29492): register
+11-28 07:30:40.982 E/[com.hellotalk] NihaotalkApplication(29492): WatchMan init OnResult , code = 200 msg = ok
+11-28 07:30:41.008 E/[com.hellotalk] EnginesConfigure(29492): EnginesConfigure name:engines_106986854.lua
+11-28 07:30:41.008 E/[com.hellotalk] HTThreadHelper(29492): startInSafe current thread:RxCachedThreadScheduler-2
+11-28 07:30:41.009 E/[com.hellotalk] HTThreadHelper(29492): startInSafe start in current thread.
+11-28 07:30:41.051 E/[com.hellotalk] LuaUtils(29492): getResultForLua LdoString:0
+11-28 07:30:41.054 E/[com.hellotalk] LuaUtils(29492): getLuaJsonFromState result:{"dictation":{"api_type":2},"engines":{"script_ts":99,"read_engine":"google_read","daily_count":15,"mnt_count":25,"local_param":["","","406515.1038799437",""],"text_engine":"google_text","transliterate_engine":"google_zhuy","max_loop":3}}
+11-28 07:30:41.102 E/[com.hellotalk] LuaUtils(29492): getResultForLua LdoString:0
+11-28 07:30:41.102 E/[com.hellotalk] LuaUtils(29492): getLuaJsonFromState result:{"dictation":{"api_type":2},"engines":{"script_ts":91,"read_engine":"google_read","daily_count":15,"mnt_count":25,"local_param":["","","406515.1038799437",""],"text_engine":"google_text","transliterate_engine":"google_zhuy","max_loop":3}}
+11-28 07:30:41.109 E/[com.hellotalk] LuaUtils(29492): getResultForLua LdoString:0
+11-28 07:30:41.109 E/[com.hellotalk] LuaUtils(29492): getLuaJsonFromState result:{"dictation":{"api_type":2},"engines":{"script_ts":99,"read_engine":"google_read","daily_count":15,"mnt_count":25,"local_param":["","","406515.1038799437",""],"text_engine":"google_text","transliterate_engine":"google_zhuy","max_loop":3}}
+11-28 07:30:41.110 E/[com.hellotalk] VipShopConfigure(29492): json = {"page":3,"price_group":3,"privi":2,"tried":0,"user_vip_classify":0}
+11-28 07:30:41.110 E/[com.hellotalk] VipShopConfigure(29492): processData privilege = 2,tried = 0,page = 3, userVipClassify:0
+--------- beginning of main
+11-28 07:30:41.884 E/[com.hellotalk] HostDnsParser(29492): startParse result:-1
+11-28 07:30:41.884 E/[com.hellotalk] HostDnsParser(29492): ips: null
+11-28 07:30:41.884 E/[com.hellotalk] OkHttpUtils(29492): getWithoutParseHost url:http://120.25.239.138/api/maps/ipcode?t=1606570241775&lang=Spanish&userid=106986854&version=4.1.5&terminaltype=1,headers2
+11-28 07:30:41.907 E/[com.hellotalk] HostDnsParser(29492): startParse host:ali-hk-cdn.hellotalk8.com
+11-28 07:30:41.907 E/[com.hellotalk] HostDnsParser(29492): startParse result:-1
+11-28 07:30:41.907 E/[com.hellotalk] HostDnsParser(29492): ips: null
+11-28 07:30:41.935 E/[com.hellotalk] OkHttpUtils(29492): HttpDns lookup hostname:120.25.239.138
+11-28 07:30:41.936 E/[com.hellotalk] HostDnsParseManager(29492): getDnsModelCache host= 120.25.239.138
+11-28 07:30:41.937 E/[com.hellotalk] OkHttpUtils(29492): lookup hostname = 120.25.239.138，model:null
+11-28 07:30:41.937 E/[com.hellotalk] OkHttpUtils(29492): generateAddresses HttpDns lookup ipsAll:null
+11-28 07:30:41.937 E/[com.hellotalk] OkHttpUtils(29492): HttpDns looup use system parse
+11-28 07:30:41.941 E/[com.hellotalk] OkHttpUtils(29492): lookup new hostname = 120.25.239.138,lookup system dns:[/120.25.239.138,]
+11-28 07:30:41.955 E/[com.hellotalk] HostDnsParser(29492): startParse host:cn-head-cdn.hellotalk8.com
+11-28 07:30:41.956 E/[com.hellotalk] HostDnsParser(29492): startParse result:-1
+11-28 07:30:41.956 E/[com.hellotalk] HostDnsParser(29492): ips: null
+11-28 07:30:41.957 E/[com.hellotalk] OkHttpUtils(29492): connectStart address=/120.25.239.138
+11-28 07:30:41.962 I/com.hellotalk(29492): Compiler allocated 4473KB to compile void com.hellotalk.basic.core.configure.d.e()
+11-28 07:30:41.979 E/[com.hellotalk] HostDnsParser(29492): startParse host:translate.google.cn
+11-28 07:30:41.980 E/[com.hellotalk] HostDnsParser(29492): startParse result:-1
+11-28 07:30:41.980 E/[com.hellotalk] HostDnsParser(29492): ips: null
+11-28 07:30:41.999 E/[com.hellotalk] HostDnsParser(29492): startParse host:ali-sz-headimg-cdn.hellotalk8.com
+11-28 07:30:42.000 E/[com.hellotalk] HostDnsParser(29492): startParse result:-1
+11-28 07:30:42.000 E/[com.hellotalk] HostDnsParser(29492): ips: null
+11-28 07:31:02.413 E/com.hellotalk(31089): Not starting debugger since process cannot load the jdwp agent.
+11-28 07:31:02.423 D/ActivityThread(31089): setConscryptValidator
+11-28 07:31:02.423 D/ActivityThread(31089): setConscryptValidator - put
+11-28 07:31:02.528 I/com.hellotalk(31089): The ClassLoaderContext is a special shared library.
+11-28 07:31:02.601 W/com.hellotalk(31089): Insufficient pre-allocated space to mmap vdex.
+11-28 07:31:02.992 I/MultiDex(31089): VM with version 2.1.0 has multidex support
+11-28 07:31:02.993 I/MultiDex(31089): Installing application
+11-28 07:31:02.993 I/MultiDex(31089): VM has multidex support, MultiDex support library is disabled.
+11-28 07:31:03.000 I/MultiDex(31089): Installing application
+11-28 07:31:03.000 I/MultiDex(31089): VM has multidex support, MultiDex support library is disabled.
+11-28 07:31:03.964 W/com.hellotalk(31089): Long monitor contention with owner Thread-6 (31146) at boolean libcore.io.Linux.access(java.lang.String, int)(Linux.java:-2) waiters=0 in android.content.SharedPreferences android.app.ContextImpl.getSharedPreferences(java.lang.String, int) for 122ms
+11-28 07:31:04.182 V/FA      (31089): Deferring to Google Analytics for Firebase for event data collection. https://goo.gl/J1sWQy
+11-28 07:31:04.222 I/DynamiteModule(31089): Considering local module com.google.android.gms.measurement.dynamite:12 and remote module com.google.android.gms.measurement.dynamite:0
+11-28 07:31:04.222 I/DynamiteModule(31089): Selected local version of com.google.android.gms.measurement.dynamite
+11-28 07:31:04.244 W/com.hellotalk(31089): Unsupported class loader
+11-28 07:31:04.321 I/DynamiteModule(31089): Considering local module com.google.android.gms.ads.dynamite:0 and remote module com.google.android.gms.ads.dynamite:204102000
+11-28 07:31:04.322 I/DynamiteModule(31089): Selected remote version of com.google.android.gms.ads.dynamite, version >= 204102000
+11-28 07:31:04.368 V/DynamiteModule(31089): Dynamite loader version >= 2, using loadModule2NoCrashUtils
+11-28 07:31:04.956 W/com.hellotalk(31089): Verification of android.content.Context db.a(android.content.Context, java.lang.String, int, android.database.Cursor) took 564.357ms
+11-28 07:31:05.236 I/DynamiteLoaderV2Impl(31089): [71] AdsFdrDynamite.integ
+11-28 07:31:05.394 I/FirebaseCrashlytics(31089): Initializing Crashlytics 17.1.1
+11-28 07:31:05.709 I/FirebaseInitProvider(31089): FirebaseApp initialization successful
+11-28 07:31:06.484 W/com.hellotalk(31089): Verification of java.lang.String com.google.android.gms.ads.internal.util.client.d.a() took 165.550ms
+11-28 07:31:06.510 W/com.hellotalk(31089): Long monitor contention with owner main (31089) at void com.facebook.internal.NativeProtocol.<clinit>()(NativeProtocol.java:61) waiters=0 in boolean com.facebook.FacebookSdk.isInitialized() for 172ms
+11-28 07:31:06.880 D/NetworkSecurityConfig(31089): Using Network Security Config from resource network_security_config debugBuild: false
+11-28 07:31:06.901 E/GraphResponse(31089): GraphRequest can't be used when Facebook SDK isn't fully initialized
+11-28 07:31:06.902 W/com.hellotalk(31089): Long monitor contention with owner AsyncTask #4 (31277) at void com.android.org.conscrypt.OpenSSLSocketFactoryImpl.<clinit>()(OpenSSLSocketFactoryImpl.java:38) waiters=1 in javax.net.SocketFactory javax.net.ssl.SSLSocketFactory.getDefault() for 272ms
+11-28 07:31:06.904 E/GraphResponse(31089): GraphRequest can't be used when Facebook SDK isn't fully initialized
+11-28 07:31:06.922 E/GraphResponse(31089): GraphRequest can't be used when Facebook SDK isn't fully initialized
+11-28 07:31:06.934 E/GraphResponse(31089): GraphRequest can't be used when Facebook SDK isn't fully initialized
+11-28 07:31:06.940 E/GraphResponse(31089): GraphRequest can't be used when Facebook SDK isn't fully initialized
+11-28 07:31:07.203 E/[com.hellotalk] NihaotalkApplication(31089): onCreate isMain = true
+11-28 07:31:07.204 D/HTLOG   (31089):  create write log thread
+11-28 07:31:07.396 D/FBAudienceNetwork(31089): SDK dex loading time: 1160
+11-28 07:31:07.412 E/LogFileWriter(31089): construct exists the HELLOTALK file and delete it.
+11-28 07:31:07.420 E/[com.hellotalk] NihaotalkApplication(31089): onCreate MainName = com.hellotalk
+11-28 07:31:07.458 E/LogFileWriter(31089): onLooperPrepared
+11-28 07:31:07.458 D/LogFileWriter(31089): construct mEventHandler:Handler (com.hellotalk.basic.b.c$2) {a77e958}
+11-28 07:31:07.459 D/LogFileWriter(31089): MSG_INIT log dir:/storage/emulated/0/hellotalk/htlog
+11-28 07:31:07.663 E/[com.hellotalk] NotificationChannelManager(31089): createChannelsIfNeed create normal channel
+11-28 07:31:07.678 E/[com.hellotalk] NotificationChannelManager(31089): createChannelsIfNeed create dnd channel
+11-28 07:31:07.824 E/[com.hellotalk] CoreConfiguration(31089): loadPrefs pwd:
+11-28 07:31:07.824 E/[com.hellotalk] CoreConfiguration(31089): loadPrefs loginPagePwd:
+11-28 07:31:07.826 E/[com.hellotalk] CoreConfiguration(31089): loadPrefs language 5
+11-28 07:31:07.871 I/MMKV    (31089): <native-bridge.cpp:101::JNI_OnLoad> current API level = 29
+11-28 07:31:07.872 I/MMKV    (31089): <MMKV.cpp:192::initialize> page size:4096
+11-28 07:31:07.873 I/MMKV    (31089): <MMKV.cpp:206::initializeMMKV> root dir: /data/user/0/com.hellotalk/files/mmkv
+11-28 07:31:08.368 E/[com.hellotalk] AppsFlyerHelper(31089): AppsFlyerHelper appsFlyerId:1603570438058-1674777743665020551
+11-28 07:31:08.376 D/AppsFlyer_5.2.0(31089): Initializing AppsFlyer SDK: (v5.2.0.311)
+11-28 07:31:08.634 E/[com.hellotalk] NihaotalkApplication(31089): WatchMan init 
+11-28 07:31:08.718 E/[com.hellotalk] LoginConfigHelper(31089): load config cache
+11-28 07:31:08.727 I/MMKV    (31089): <MMKV.cpp:335::loadFromFile> loading [wns_caches_v6_cry] with 131555 size in total, file size is 262144, InterProcess 0
+11-28 07:31:08.729 I/MMKV    (31089): <MMKV.cpp:359::loadFromFile> loading [wns_caches_v6_cry] with crc 1277719035 sequence 6 version 2
+11-28 07:31:08.743 I/MMKV    (31089): <MMKV.cpp:380::loadFromFile> loaded [wns_caches_v6_cry] with 46 values
+11-28 07:31:08.748 E/[com.hellotalk] WithVersionConfigure(31089): loadFromCache key = card_conffalse106986854,ts = -1812269082,url = https://ali-hk-cdn.hellotalk8.com/card/card_conf_0625.json
+11-28 07:31:08.748 E/[com.hellotalk] WithVersionConfigure(31089): loadFromCache key = client_stringfalse106986854,ts = 28,url = https://d1crbxfh451uuh.cloudfront.net/mg_20160725/cnf/client_string_v27.json
+11-28 07:31:08.750 E/[com.hellotalk] EmojiRainConfigure(31089): fromCache = true,key = emoji_rainfalse106986854
+11-28 07:31:08.752 E/[com.hellotalk] WithVersionConfigure(31089): loadFromCache key = stickerfalse106986854,ts = 22,url = https://d1crbxfh451uuh.cloudfront.net/stickerSrc/config_22.enc
+11-28 07:31:08.821 E/[com.hellotalk] NetworkState(31089): register
+11-28 07:31:09.401 E/[com.hellotalk] NihaotalkApplication(31089): WatchMan init OnResult , code = 200 msg = ok
+11-28 07:31:09.651 E/[com.hellotalk] VipShopManager(31089): loadCacheVipSceneConfig
+11-28 07:31:09.820 I/TradPlus(31089): openUrl :http://api.tradplus.com/api/v1_2/open?v=1.2&sdkv=4.5.2.1&os=1&mac=02%3A00%3A00%3A00%3A00%3A00&aid=UID-201e1841-8f6a-4dc0-954d-ac1e7f48cf08&br=samsung&dn=SM-A505G&m=com.hellotalk&ct=1&sw=1080&sh=2131&lmt=0&iso=US&sc=2.625&z=-0600&l=es&o=1&rom=samsung&romv=A505GUBS5BTJ4
+11-28 07:31:09.821 I/TradPlusLog(31089): Start SDK Init.
+11-28 07:31:09.844 E/[com.hellotalk] EnginesConfigure(31089): EnginesConfigure name:engines_106986854.lua
+11-28 07:31:09.862 I/openResponse(31089): initSDK:FSOpenResponse{debugmode=false, sendlog=false, logserver='null', confserver='https://api.tradplus.com/api/v1_2/adconf', ev='https://event.tradplus.com/api/v1_2/ev', ue=false}
+11-28 07:31:09.862 I/TradPlusLog(31089): SDK Initialized.
+11-28 07:31:09.863 I/gdpr    (31089): setEUTraffic: false:context:com.hellotalk.core.app.NihaotalkApplication@f9d6623
+11-28 07:31:09.865 E/[com.hellotalk] HTThreadHelper(31089): startInSafe current thread:RxCachedThreadScheduler-2
+11-28 07:31:09.865 E/[com.hellotalk] HTThreadHelper(31089): startInSafe start in current thread.
+11-28 07:31:09.970 E/[com.hellotalk] LuaUtils(31089): getResultForLua LdoString:0
+11-28 07:31:09.976 E/[com.hellotalk] LuaUtils(31089): getLuaJsonFromState result:{"dictation":{"api_type":2},"engines":{"script_ts":99,"read_engine":"google_read","daily_count":15,"mnt_count":25,"local_param":["","","406515.1038799437",""],"text_engine":"google_text","transliterate_engine":"google_zhuy","max_loop":3}}
+11-28 07:31:10.013 W/[com.hellotalk] NetworkManager(31089): NetworkChangeReceiver onReceive() without Context
+11-28 07:31:10.015 I/[com.hellotalk] NetworkManager(31089): old apn:none  new apn:wifi old isp:0 new isp:0
+11-28 07:31:10.017 E/[com.hellotalk] NetworkState(31089): NetworkStateReceiver ====== android.net.conn.CONNECTIVITY_CHANGE
+11-28 07:31:10.021 E/[com.hellotalk] NihaotalkApplication(31089): onReceive netWorkState:1
+11-28 07:31:10.039 E/[com.hellotalk] HttpUrls(31089): init thread:RxCachedThreadScheduler-1
+11-28 07:31:10.055 E/[com.hellotalk] WnsConfigure(31089): reload wns if empty:search
+11-28 07:31:10.063 E/[com.hellotalk] LuaUtils(31089): getResultForLua LdoString:0
+11-28 07:31:10.064 E/[com.hellotalk] LuaUtils(31089): getLuaJsonFromState result:{"dictation":{"api_type":2},"engines":{"script_ts":91,"read_engine":"google_read","daily_count":15,"mnt_count":25,"local_param":["","","406515.1038799437",""],"text_engine":"google_text","transliterate_engine":"google_zhuy","max_loop":3}}
+11-28 07:31:10.066 E/[com.hellotalk] WnsConfigure(31089): getAssetWnsConfigFilePath filePath = google/wns_config，currentChannelValue = google
+11-28 07:31:10.069 E/[com.hellotalk] WnsConfigure(31089): decode from asset
+11-28 07:31:10.090 E/[com.hellotalk] LuaUtils(31089): getResultForLua LdoString:0
+11-28 07:31:10.090 E/[com.hellotalk] LuaUtils(31089): getLuaJsonFromState result:{"dictation":{"api_type":2},"engines":{"script_ts":99,"read_engine":"google_read","daily_count":15,"mnt_count":25,"local_param":["","","406515.1038799437",""],"text_engine":"google_text","transliterate_engine":"google_zhuy","max_loop":3}}
+11-28 07:31:10.095 E/[com.hellotalk] HTThreadHelper(31089): startInSafe current thread:RxCachedThreadScheduler-1
+11-28 07:31:10.095 E/[com.hellotalk] HTThreadHelper(31089): startInSafe start in current thread.
+11-28 07:31:10.104 E/[com.hellotalk] VipShopConfigure(31089): json = {"page":3,"price_group":3,"privi":2,"tried":0,"user_vip_classify":0}
+11-28 07:31:10.105 E/[com.hellotalk] VipShopConfigure(31089): processData privilege = 2,tried = 0,page = 3, userVipClassify:0
+11-28 07:31:10.116 E/[com.hellotalk] HTThreadHelper(31089): startInSafe current thread:RxCachedThreadScheduler-1
+11-28 07:31:10.117 E/[com.hellotalk] HTThreadHelper(31089): startInSafe start in current thread.
+11-28 07:31:10.128 E/[com.hellotalk] HTThreadHelper(31089): startInSafe current thread:RxCachedThreadScheduler-1
+11-28 07:31:10.128 E/[com.hellotalk] HTThreadHelper(31089): startInSafe start in current thread.
+11-28 07:31:10.131 E/[com.hellotalk] HTThreadHelper(31089): startInSafe current thread:RxCachedThreadScheduler-1
+11-28 07:31:10.159 E/[com.hellotalk] HTThreadHelper(31089): startInSafe start in current thread.
+11-28 07:31:10.162 E/[com.hellotalk] HTThreadHelper(31089): startInSafe current thread:RxCachedThreadScheduler-1
+11-28 07:31:10.163 E/[com.hellotalk] HTThreadHelper(31089): startInSafe start in current thread.
+11-28 07:31:10.165 E/[com.hellotalk] HttpUrls(31089): init thread:RxCachedThreadScheduler-1
+11-28 07:31:10.212 I/[INFO][Leanplum](31089): [com.leanplum.LeanplumPushFirebaseMessagingService::onMessageReceived::55]: Received: {lp_version=1}
+11-28 07:31:10.238 E/[com.hellotalk] NihaotalkApplication(31089): bindData areaCode=CN
+11-28 07:31:10.238 E/[com.hellotalk] WnsConfigure(31089): bindData areaCode=CN
+11-28 07:31:10.251 E/[com.hellotalk] WnsConfigure(31089): parseDNS useHttpDnsFirst=1,dnsCacheList.size=5
+11-28 07:31:10.331 E/[com.hellotalk] GetStringNetRequest(31089): request url:http://120.25.239.138/api/maps/ipcode
+11-28 07:31:10.344 E/[com.hellotalk] HttpUtils(31089): get actionUrl:http://120.25.239.138/api/maps/ipcode?t=1606570270331&lang=Spanish&userid=106986854&version=4.1.5&terminaltype=1
+11-28 07:31:10.363 I/MMKV    (31089): <MMKV.cpp:335::loadFromFile> loading [global_106986854_false] with 515 size in total, file size is 4096, InterProcess 0
+11-28 07:31:10.363 I/MMKV    (31089): <MMKV.cpp:359::loadFromFile> loading [global_106986854_false] with crc 1722740367 sequence 2 version 1
+11-28 07:31:10.364 I/MMKV    (31089): <MMKV.cpp:380::loadFromFile> loaded [global_106986854_false] with 4 values
+11-28 07:31:10.385 E/[com.hellotalk] HostDnsParser(31089): startParse host:ali-us-cdn.hellotalk8.com
+11-28 07:31:10.489 E/[com.hellotalk] OkHttpUtils(31089): getWithoutParseHost url:http://120.25.239.138/api/maps/ipcode?t=1606570270331&lang=Spanish&userid=106986854&version=4.1.5&terminaltype=1,headers2
+11-28 07:31:10.489 E/[com.hellotalk] HostDnsParser(31089): startParse result:-1
+11-28 07:31:10.490 E/[com.hellotalk] HostDnsParser(31089): ips: null
