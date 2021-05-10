@@ -1,0 +1,66 @@
+2021-04-16 07:58:42	Geetest
+new GT3SensorManager168053794
+2021-04-16 07:58:42	Geetest
+url_sign-->https://203.107.1.1/126617/sign_d?host=api.geetest.com&t=1618577926&s=f932a9487a9351e9da95525b8dfbce1d
+2021-04-16 07:58:42	Geetest
+onActivityResumed-->cn.com.zlct.hotbit.activity.LoginActivity@7eb9ef3
+2021-04-16 07:58:48	Geetest
+请求报错
+2021-04-16 07:58:48	Geetest
+url_sign-->https://203.107.1.1/126617/sign_d?host=api.geetest.com&t=1618577932&s=0fd0615c61de039b95959c8ad7ebdf70
+2021-04-16 07:58:55	Geetest
+onActivityPaused-->cn.com.zlct.hotbit.activity.LoginActivity@7eb9ef3
+2021-04-16 07:58:58	Geetest
+请求报错
+2021-04-16 08:00:58	Geetest
+GT3SensorManager-->unregisterSensor168053794
+2021-04-16 08:00:58	Geetest
+Gettype REQUEST START
+2021-04-16 08:00:58	Geetest
+Gettype REQUEST URL: https://api.geetest.com/gettype.php?gt=2df1a6a2c07f5148135900a70d9f138b
+2021-04-16 08:00:58	Geetest
+Header key: Content-Length value: 0,
+2021-04-16 08:00:58	Geetest
+Header key: Content-Type value: application/x-www-form-urlencoded,
+2021-04-16 08:00:58	Geetest
+Header key: Host value: api.geetest.com,
+2021-04-16 08:00:59	Geetest
+responseCode:200
+2021-04-16 08:00:59	Geetest
+Gettype REQUEST END
+2021-04-16 08:00:59	Geetest
+GetCoder REQUEST START
+2021-04-16 08:00:59	Geetest
+GetCoder REQUEST URL: https://api.geetest.com/get.php?gt=2df1a6a2c07f5148135900a70d9f138b&challenge=b332b8f9151a2715bd511ba3929ce41f&client_type=android&lang=en&client_type=android&w=VBZPLTC2A7Q3)1MLIRuxTw..9B08A643DE5A957C67710663F0F8296D878CD7FC3301785EE3B7213D0A0C7B335B79EF92C6EDB13C065CD8C6263A59607C7B86ED7B74D515F048B9576028727D7900F73A995CFCBE440D5534B9BD89EB86CCEC752AF39DF38261360BB520920B8A58059344E11D51EE5DABDF850AFA7FBE2A45E5C9FACDE01F4BBF3DC330579B
+2021-04-16 08:00:59	Geetest
+Header key: Content-Length value: 0,
+2021-04-16 08:00:59	Geetest
+Header key: Content-Type value: application/x-www-form-urlencoded,
+2021-04-16 08:00:59	Geetest
+Header key: Cookie value: GeeTestUser=393cc09388e462590333d474d779c7c7,
+2021-04-16 08:00:59	Geetest
+Header key: Host value: api.geetest.com,
+2021-04-16 08:01:00	Geetest
+responseCode:200
+2021-04-16 08:01:00	Geetest
+GetCoder REQUEST END
+2021-04-16 08:01:00	Geetest
+Ajax REQUEST START
+2021-04-16 08:01:00	Geetest
+Ajax REQUEST URL: https://api.geetest.com/ajax.php?gt=2df1a6a2c07f5148135900a70d9f138b&challenge=b332b8f9151a2715bd511ba3929ce41f&client_type=android&lang=en
+2021-04-16 08:01:01	Geetest
+Header key: Accept-Encoding value: gzip,
+2021-04-16 08:01:01	Geetest
+Header key: Content-Encoding value: gzip,
+2021-04-16 08:01:01	Geetest
+Header key: Content-Length value: 37610,
+2021-04-16 08:01:01	Geetest
+Header key: Content-Type value: application/x-www-form-urlencoded,
+2021-04-16 08:01:01	Geetest
+Header key: Cookie value: GeeTestUser=393cc09388e462590333d474d779c7c7,
+2021-04-16 08:01:01	Geetest
+Header key: Host value: api.geetest.com,
+2021-04-16 08:01:03	Geetest
+responseCode:200
+2021-04-16 08:01:03	Geetest
+Ajax REQUEST END
